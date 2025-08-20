@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "vite build"
+  },
   "dependencies": {
     "lucide-react": "^0.540.0",
     "react": "^19.1.1",
